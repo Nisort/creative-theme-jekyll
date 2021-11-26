@@ -13,3 +13,5 @@ github_username:  Nisort
 
 # Build settings
 markdown: kramdown
+#analytics
+google_analytics: G-BVJ7L80B93
